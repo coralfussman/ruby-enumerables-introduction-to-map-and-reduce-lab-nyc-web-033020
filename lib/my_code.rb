@@ -50,7 +50,7 @@ end
 
 def reduce_to_total(source_array, starting_point)
 
-index = [starting_point]
+index = starting_point
   while index < source_array.length
 
   reduced_total = index.sum
