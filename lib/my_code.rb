@@ -21,3 +21,11 @@ while index < source_array.length
 end
 my_original_array
 end
+
+
+def map_to_double(source_array)
+
+  my_doubled_array = []
+  index =0
+  while index < source_array.length
+    my_doubled_array << source_array[index] * (2)
