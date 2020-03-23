@@ -18,8 +18,8 @@ while index < source_array.length
   my_original_array << source_array[index] * (1)
   index += 1
 
-
-
 end
 my_original_array
 end
+
+
