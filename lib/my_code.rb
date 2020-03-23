@@ -15,7 +15,9 @@ def map_to_no_change(source_array)
 my_original_array = []
 index =0
 while index < source_array.length
-  my_original_array << source_array[index]
+  my_negative_array << source_array[index] * (1)
+  index += 1
+
 
 
 end
