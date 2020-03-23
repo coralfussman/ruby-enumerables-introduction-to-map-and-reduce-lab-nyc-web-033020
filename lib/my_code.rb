@@ -14,6 +14,6 @@ def map_to_no_change(source_array)
 
 my_original_array = []
 
-  my_original_array << source_array
+  my_original_array == source_array
 
 end
