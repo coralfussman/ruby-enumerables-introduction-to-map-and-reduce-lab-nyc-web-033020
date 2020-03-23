@@ -21,5 +21,3 @@ while index < source_array.length
 end
 my_original_array
 end
-
-
