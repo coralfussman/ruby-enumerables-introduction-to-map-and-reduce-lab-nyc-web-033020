@@ -16,7 +16,7 @@ my_original_array = []
 index =0
 while index < source_array.length
   my_original_array << source_array[index]
-  += 1
+
 
 end
 my_original_array
