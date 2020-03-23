@@ -9,3 +9,5 @@ index += 1
   end
 my_negative_array
 end
+
+def map_to_no_change(source_array)
