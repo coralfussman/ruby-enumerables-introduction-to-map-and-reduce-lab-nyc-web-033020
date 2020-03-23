@@ -48,7 +48,7 @@ def map_to_square(source_array)
   my_squared_array
 end
 
-def reduce_to_total(source_array, starting_point)
+def reduce_to_total(source_array, starting_point = 0)
 
 reduced_total = starting_point
 index = 0
