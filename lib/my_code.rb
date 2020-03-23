@@ -17,6 +17,7 @@ index =0
 while index < source_array.length
   my_original_array << source_array
 else
-nil
 end
+nil
+
 end
