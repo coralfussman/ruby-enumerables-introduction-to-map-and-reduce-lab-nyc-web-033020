@@ -51,6 +51,7 @@ end
 def reduce_to_total(source_array, starting_point)
 
 reduced_total = starting_point
+index = 0
   while index < source_array.length
 
   reduced_total.sum
